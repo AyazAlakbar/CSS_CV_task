@@ -1,7 +1,9 @@
 
 
-.body{
-    background-color: black;
+
+
+body {
+  background-color: black ;
 }
 
 .container{
@@ -13,6 +15,7 @@
     display: flex;
     justify-content: space-around;
     align-items: center;
+    background-color: white;
     
     
 }
